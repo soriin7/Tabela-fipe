@@ -1,7 +1,7 @@
-# TESTE - Estágio Desenvolvimento Front-end
+# Tabela Fipe
 Neste teste você deverá desenvolver uma página de consulta de histórico de preços de carro da tabela FIPE.
 
-Queremos que você coloque a mão na massa nas ferramentas/métodos que irá usar no dia-a-dia aqui na Inovyo:
+Queremos que você coloque a mão na massa nas ferramentas/métodos a seguir:
 - Consumo de API (aqui vamos utilizar a FIPE API);
 - Framework frontend (Bootstrap);
 - Biblioteca de visualização de dados (Chart.js).
@@ -23,13 +23,6 @@ Um pouco de:
 - No arquivo `index.html` você encontrará a biblioteca/framework já carregados e comentários indicando onde deve trabalhar;
 - No arquivo `app.js` consta a lista de endpoints com algumas instruções de como devem ser utilizados;
 - Não inclua nenhum outro arquivo, nem utilize bibliotecas externas via CDN, utilize apenas o que já está nos arquivos de modelo (`index.html`, `style.css` e `app.js`);
-
-# Entrega
-## Já utiliza o git?
-Faça o fork do repositório e envie o link do seu trabalho final para o e-mail `talentos@inovyo.com` com o título `Teste Front-end`.
-
-## Não tem familiaridade com o git?
-Tudo bem, você pode baixar os arquivos deste repositório e nos enviar o trabalho final em um zip com o nome `teste-frontend-seuprimeironome` para o e-mail `talentos@inovyo.com` com o título `Teste Front-end` 
 
 # Documentação / Materiais de apoio
 * [Bootstrap](https://getbootstrap.com/) - Framework front-end
